@@ -1,0 +1,4 @@
+rps1P 2
+rps2P 2,2
+guess 5
+tictactoe 7,5
